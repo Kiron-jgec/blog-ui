@@ -1,0 +1,184 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Random Key Generator",
+      "subtitle": "Generate random keys or random strings with custom length, character set, and numbers within a second.",
+      "content": "<p>Since its initial release in 2014, Vue.js has grown to be among the most popular JavaScript frameworks in the world. One of the reasons for this popularity is the wide use of components which enable developers to create small modules to be used and re-used throughout an application. Vuetify is a collection of pre-made components paired with powerful features such dynamic themes, global default, application layouts, and more. Its goal is to provide developers with all of the necessary tools to build rich and engaging user experiences.</p> <br/><h3>Getting started</h3><br/><p>The fastest way to try Vuetify is in the browser at 🎮play.vuetifyjs.com. For a complete list of installation options please navigate to the Installation page.Vuetify is a powerful Vue Component Framework built from the ground up to be easy to learn and rewarding to master. Our collection of UI components maintain a consistent style throughout your application with enough customization options to meet any use-case.</p> <br/> <h3>It’s free</h3><br/><p>Vuetify is an Open Source project available for free under the MIT licensed. Additionally, Vuetify’s source code is available on GitHub, allowing developers to modify and contribute to its development if they choose to do so.</p><br/> <h3>Flexible components</h3><br/><p>Every component in Vuetify is handcrafted under the guise of Google’s Material Design specification and comes with hundreds of customization options that fit any style or design; even if it’s not Material. Write Vue templates that are as concise or verbose as you want using exlusively or a combination of props, slots, and components.</p> <br/><h3>Community</h3><br/><p>When you develop with Vuetify, you are never alone. Stuck on a problem? Take advantage of our massive Discord community and collaborate with other Vuetify developers in one of our public help channels. Need a more personalized support solution?Enterprise suppor with options tailored to individuals and businesses. Check out some other ways to Sponsor Vuetify development.</p><br/> <h3>How To Use</h3><br/><p>Free Online Tool Generate and Issue Invoice or Bills within Minutes to your Customers or Clients. Create Instant Bill anonymously. Its a simple and fast way to generate invoice and bill. You can use it for your business or personal use. You can also use it for your business or personal use. You can also use it for your business or personal use. It is free and easy to use.Welcome to our most andance random key generator or random string generator online tool.This powerful tool can generate random keys or random tokens with any length and also give you various customisable input options. With our tool you can easily generate strings with letters , numbers and symbols.</p>     ",
+      "image": "https://picsum.photos/1080/600?random=1",
+      "date": "5 january 2021",
+      "catagoery": [
+        "Password"
+      ],
+      "tags": [
+        "Security",
+        "Create Password",
+        "Random Password"
+      ],
+      "comments": [
+        {
+          "author": "John",
+          "content": "This is a comment",
+          "date": "8 january 2021",
+          "time": "8:48pm"
+        },
+        {
+          "author": "Jane",
+          "content": "This is another comment",
+          "date": "12 january 2021",
+          "time": "4:45pm"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Password Strength Meter",
+      "subtitle": "Check your password strength which and go there you are going to use in your online in your online account.",
+      "content": "<p>Since its initial release in 2014, Vue.js has grown to be among the most popular JavaScript frameworks in the world. One of the reasons for this popularity is the wide use of components which enable developers to create small modules to be used and re-used throughout an application. Vuetify is a collection of pre-made components paired with powerful features such dynamic themes, global default, application layouts, and more. Its goal is to provide developers with all of the necessary tools to build rich and engaging user experiences.</p> <br/><h3>Getting started</h3><br/><p>The fastest way to try Vuetify is in the browser at 🎮play.vuetifyjs.com. For a complete list of installation options please navigate to the Installation page.Vuetify is a powerful Vue Component Framework built from the ground up to be easy to learn and rewarding to master. Our collection of UI components maintain a consistent style throughout your application with enough customization options to meet any use-case.</p> <br/> <h3>It’s free</h3><br/><p>Vuetify is an Open Source project available for free under the MIT licensed. Additionally, Vuetify’s source code is available on GitHub, allowing developers to modify and contribute to its development if they choose to do so.</p><br/> <h3>Flexible components</h3><br/><p>Every component in Vuetify is handcrafted under the guise of Google’s Material Design specification and comes with hundreds of customization options that fit any style or design; even if it’s not Material. Write Vue templates that are as concise or verbose as you want using exlusively or a combination of props, slots, and components.</p> <br/><h3>Community</h3><br/><p>When you develop with Vuetify, you are never alone. Stuck on a problem? Take advantage of our massive Discord community and collaborate with other Vuetify developers in one of our public help channels. Need a more personalized support solution?Enterprise suppor with options tailored to individuals and businesses. Check out some other ways to Sponsor Vuetify development.</p><br/> <h3>How To Use</h3><br/><p>Free Online Tool Generate and Issue Invoice or Bills within Minutes to your Customers or Clients. Create Instant Bill anonymously. Its a simple and fast way to generate invoice and bill. You can use it for your business or personal use. You can also use it for your business or personal use. You can also use it for your business or personal use. It is free and easy to use.</p>     ",
+      "image": "https://picsum.photos/1080/600?random=2",
+      "date": "12 january 2021",
+      "catagoery": [
+        "Password"
+      ],
+      "tags": [
+        "label 1",
+        "label 2",
+        "label 3"
+      ],
+      "comments": [
+        {
+          "author": "John",
+          "content": "This is a comment",
+          "date": "8 january 2021",
+          "time": "8:48pm"
+        },
+        {
+          "author": "Jane",
+          "content": "This is another comment",
+          "date": "12 january 2021",
+          "time": "4:45pm"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Password Generator",
+      "subtitle": "Generate a strong and secure password with this free password generator tool for your online account.",
+      "content": "<p>Since its initial release in 2014, Vue.js has grown to be among the most popular JavaScript frameworks in the world. One of the reasons for this popularity is the wide use of components which enable developers to create small modules to be used and re-used throughout an application. Vuetify is a collection of pre-made components paired with powerful features such dynamic themes, global default, application layouts, and more. Its goal is to provide developers with all of the necessary tools to build rich and engaging user experiences.</p> <br/><h3>Getting started</h3><br/><p>The fastest way to try Vuetify is in the browser at 🎮play.vuetifyjs.com. For a complete list of installation options please navigate to the Installation page.Vuetify is a powerful Vue Component Framework built from the ground up to be easy to learn and rewarding to master. Our collection of UI components maintain a consistent style throughout your application with enough customization options to meet any use-case.</p> <br/> <h3>It’s free</h3><br/><p>Vuetify is an Open Source project available for free under the MIT licensed. Additionally, Vuetify’s source code is available on GitHub, allowing developers to modify and contribute to its development if they choose to do so.</p><br/> <h3>Flexible components</h3><br/><p>Every component in Vuetify is handcrafted under the guise of Google’s Material Design specification and comes with hundreds of customization options that fit any style or design; even if it’s not Material. Write Vue templates that are as concise or verbose as you want using exlusively or a combination of props, slots, and components.</p> <br/><h3>Community</h3><br/><p>When you develop with Vuetify, you are never alone. Stuck on a problem? Take advantage of our massive Discord community and collaborate with other Vuetify developers in one of our public help channels. Need a more personalized support solution?Enterprise suppor with options tailored to individuals and businesses. Check out some other ways to Sponsor Vuetify development.</p><br/> <h3>How To Use</h3><br/><p>Free Online Tool Generate and Issue Invoice or Bills within Minutes to your Customers or Clients. Create Instant Bill anonymously. Its a simple and fast way to generate invoice and bill. You can use it for your business or personal use. You can also use it for your business or personal use. You can also use it for your business or personal use. It is free and easy to use.</p>     ",
+      "image": "https://picsum.photos/1080/600?random=3",
+      "date": "5 january 2021",
+      "catagoery": [
+        "Password"
+      ],
+      "tags": [
+        "Strong",
+        "Secure",
+        "Password"
+      ],
+      "comments": [
+        {
+          "author": "Najmul Hoque",
+          "content": "This is a great article",
+          "date": "15 january 2021",
+          "time": "8:48pm"
+        },
+        {
+          "author": "Pothik",
+          "content": "Very helpful article",
+          "date": "12 january 2021",
+          "time": "4:45pm"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Who are the Pictogrammers ? ",
+      "subtitle": "Learn more about what Vuetify is, how to create an application from scratch, browse API references, sample code, tutorials, and more.",
+      "content": "<p>Since its initial release in 2014, Vue.js has grown to be among the most popular JavaScript frameworks in the world. One of the reasons for this popularity is the wide use of components which enable developers to create small modules to be used and re-used throughout an application. Vuetify is a collection of pre-made components paired with powerful features such dynamic themes, global default, application layouts, and more. Its goal is to provide developers with all of the necessary tools to build rich and engaging user experiences.</p> <br/><h3>Getting started</h3><br/><p>The fastest way to try Vuetify is in the browser at 🎮play.vuetifyjs.com. For a complete list of installation options please navigate to the Installation page.Vuetify is a powerful Vue Component Framework built from the ground up to be easy to learn and rewarding to master. Our collection of UI components maintain a consistent style throughout your application with enough customization options to meet any use-case.</p> <br/> <h3>It’s free</h3><br/><p>Vuetify is an Open Source project available for free under the MIT licensed. Additionally, Vuetify’s source code is available on GitHub, allowing developers to modify and contribute to its development if they choose to do so.</p><br/> <h3>Flexible components</h3><br/><p>Every component in Vuetify is handcrafted under the guise of Google’s Material Design specification and comes with hundreds of customization options that fit any style or design; even if it’s not Material. Write Vue templates that are as concise or verbose as you want using exlusively or a combination of props, slots, and components.</p> <br/><h3>Community</h3><br/><p>When you develop with Vuetify, you are never alone. Stuck on a problem? Take advantage of our massive Discord community and collaborate with other Vuetify developers in one of our public help channels. Need a more personalized support solution?Enterprise suppor with options tailored to individuals and businesses. Check out some other ways to Sponsor Vuetify development.</p><br/> <h3>How To Use</h3><br/><p>Free Online Tool Generate and Issue Invoice or Bills within Minutes to your Customers or Clients. Create Instant Bill anonymously. Its a simple and fast way to generate invoice and bill. You can use it for your business or personal use. You can also use it for your business or personal use. You can also use it for your business or personal use. It is free and easy to use.</p>     ",
+      "image": "https://picsum.photos/1080/600?random=4",
+      "date": "3 january 2021",
+      "catagoery": [
+        "Programming"
+      ],
+      "tags": [
+        "Vue",
+        "Vuetify",
+        "JavaScript"
+      ],
+      "comments": [
+        {
+          "author": "Mamon",
+          "content": "This is a great article, really helpful",
+          "date": "8 january 2021",
+          "time": "8:48pm"
+        },
+        {
+          "author": "Tajibor Rahaman",
+          "content": "Very helpful article",
+          "date": "12 january 2021",
+          "time": "4:45pm"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Formation of Pictogrammers",
+      "subtitle": "Learn more about what Vuetify is, how to create an application from scratch, browse API references, sample code, tutorials, and more.",
+      "content": "<p>Since its initial release in 2014, Vue.js has grown to be among the most popular JavaScript frameworks in the world. One of the reasons for this popularity is the wide use of components which enable developers to create small modules to be used and re-used throughout an application. Vuetify is a collection of pre-made components paired with powerful features such dynamic themes, global default, application layouts, and more. Its goal is to provide developers with all of the necessary tools to build rich and engaging user experiences.</p> <br/><h3>Getting started</h3><br/><p>The fastest way to try Vuetify is in the browser at 🎮play.vuetifyjs.com. For a complete list of installation options please navigate to the Installation page.Vuetify is a powerful Vue Component Framework built from the ground up to be easy to learn and rewarding to master. Our collection of UI components maintain a consistent style throughout your application with enough customization options to meet any use-case.</p> <br/> <h3>It’s free</h3><br/><p>Vuetify is an Open Source project available for free under the MIT licensed. Additionally, Vuetify’s source code is available on GitHub, allowing developers to modify and contribute to its development if they choose to do so.</p><br/> <h3>Flexible components</h3><br/><p>Every component in Vuetify is handcrafted under the guise of Google’s Material Design specification and comes with hundreds of customization options that fit any style or design; even if it’s not Material. Write Vue templates that are as concise or verbose as you want using exlusively or a combination of props, slots, and components.</p> <br/><h3>Community</h3><br/><p>When you develop with Vuetify, you are never alone. Stuck on a problem? Take advantage of our massive Discord community and collaborate with other Vuetify developers in one of our public help channels. Need a more personalized support solution?Enterprise suppor with options tailored to individuals and businesses. Check out some other ways to Sponsor Vuetify development.</p><br/> <h3>How To Use</h3><br/><p>Free Online Tool Generate and Issue Invoice or Bills within Minutes to your Customers or Clients. Create Instant Bill anonymously. Its a simple and fast way to generate invoice and bill. You can use it for your business or personal use. You can also use it for your business or personal use. You can also use it for your business or personal use. It is free and easy to use.</p>     ",
+      "image": "https://picsum.photos/1080/600?random=5",
+      "date": "5 january 2021",
+      "catagoery": [
+        "Programming"
+      ],
+      "tags": [
+        "React Native",
+        "React",
+        "JavaScript"
+      ],
+      "comments": [
+        {
+          "author": "Ghulam",
+          "content": "This is a great article, really helpful",
+          "date": "8 january 2021",
+          "time": "8:48pm"
+        },
+        {
+          "author": "Tajibor Rahaman",
+          "content": "This is another comment",
+          "date": "12 january 2021",
+          "time": "4:45pm"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Invoice Generator",
+      "subtitle": "Learn more about what Vuetify is, how to create an application from scratch, browse API references, sample code, tutorials, and more.",
+      "content": "<p>Since its initial release in 2014, Vue.js has grown to be among the most popular JavaScript frameworks in the world. One of the reasons for this popularity is the wide use of components which enable developers to create small modules to be used and re-used throughout an application. Vuetify is a collection of pre-made components paired with powerful features such dynamic themes, global default, application layouts, and more. Its goal is to provide developers with all of the necessary tools to build rich and engaging user experiences.</p> <br/><h3>Getting started</h3><br/><p>The fastest way to try Vuetify is in the browser at 🎮play.vuetifyjs.com. For a complete list of installation options please navigate to the Installation page.Vuetify is a powerful Vue Component Framework built from the ground up to be easy to learn and rewarding to master. Our collection of UI components maintain a consistent style throughout your application with enough customization options to meet any use-case.</p> <br/> <h3>It’s free</h3><br/><p>Vuetify is an Open Source project available for free under the MIT licensed. Additionally, Vuetify’s source code is available on GitHub, allowing developers to modify and contribute to its development if they choose to do so.</p><br/> <h3>Flexible components</h3><br/><p>Every component in Vuetify is handcrafted under the guise of Google’s Material Design specification and comes with hundreds of customization options that fit any style or design; even if it’s not Material. Write Vue templates that are as concise or verbose as you want using exlusively or a combination of props, slots, and components.</p> <br/><h3>Community</h3><br/><p>When you develop with Vuetify, you are never alone. Stuck on a problem? Take advantage of our massive Discord community and collaborate with other Vuetify developers in one of our public help channels. Need a more personalized support solution?Enterprise suppor with options tailored to individuals and businesses. Check out some other ways to Sponsor Vuetify development.</p><br/> <h3>How To Use</h3><br/><p>Free Online Tool Generate and Issue Invoice or Bills within Minutes to your Customers or Clients. Create Instant Bill anonymously. Its a simple and fast way to generate invoice and bill. You can use it for your business or personal use. You can also use it for your business or personal use. You can also use it for your business or personal use. It is free and easy to use.</p>     ",
+      "image": "https://picsum.photos/1080/600?random=6",
+      "date": "5 january 2021",
+      "catagoery": [
+        "Invoice"
+      ],
+      "tags": [
+        "Invoice",
+        "Bills",
+        "JavaScript"
+      ],
+      "comments": [
+        {
+          "author": "Noinita",
+          "content": "This is a great article, really helpful",
+          "date": "8 january 2021",
+          "time": "8:48pm"
+        },
+        {
+          "author": "Jane",
+          "content": "This is another comment",
+          "date": "12 january 2021",
+          "time": "4:45pm"
+        }
+      ]
+    }
+  ]
+}
